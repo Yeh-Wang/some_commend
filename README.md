@@ -22,3 +22,5 @@ Submit the file to the local repository.
 Sync local repository files to remote repository.  
 * `git fetch <remoteurl>`  
 Updating files from remote repository that local repository doesn't have.  
+* `git pull <remoteurl>`  
+Download remote repository files and overwrite local repository.  
