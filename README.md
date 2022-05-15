@@ -5,13 +5,13 @@
   Create a new respository locally.
 * git clone [remoteurl]
   Clone a remote repository to local.
-* Config local and remote ssh connections
+* Config local and remote ssh connections  
 `` `txt
   ssh-keygen -t [rsa/ecdsa/ed25519] -C "youremail@example.com"
 `` `  
 `` `txt
   eval "$(ssh-agent -s)"
-`` `  
+`` `
 `` `txt
   ssh-add ~/.ssh/id_[rsa/ecdsa/ed25519]  
 `` `  
