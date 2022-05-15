@@ -1,6 +1,4 @@
-# MyTest
-
-## Basical Git CMD
+# Basical Git CMD
 
 * `git init`  
   Create a new repository locally.
