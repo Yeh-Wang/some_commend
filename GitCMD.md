@@ -1,4 +1,4 @@
-# Basical Git CMD
+# Basice Git CMD
 
 * `git init`  
   Create a new repository locally.
