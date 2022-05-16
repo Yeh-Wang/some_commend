@@ -1,5 +1,6 @@
 # Basic Linux CMD
-
+  
+  ## cd
 * `cd [filename]`  
 进入文件夹。
 * `cd ..`  
