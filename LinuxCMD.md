@@ -1,15 +1,19 @@
 # Basic Linux CMD
-
+  
+  ## **cd**
 * `cd [filename]`  
 进入文件夹。
 * `cd ..`  
-返回上一级目录
+返回上一级目录  
+## **mkdir**
 * `mkdir [filename]`  
-创建文件夹。
+创建文件夹。  
+## **cat**
 * `cat [filename1]>[filename2]`  
 文件1的内容覆盖文件2的内容。  
 `[filename1]>>[filename2]`  
-文件1的内容追加到文件2的内容末尾。
+文件1的内容追加到文件2的内容末尾。  
+## **rm**
 * `rm [options] name`  
 (1)-i 删除前逐一询问确认  
 (2)-f 逐一删除，无需确认  
