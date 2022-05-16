@@ -2,7 +2,7 @@
 
 * `cd [filename]`  
 进入文件夹。
-* `cd ..`
+* `cd ..`  
 返回上一级目录
 * `mkdir [filename]`  
 创建文件夹。
