@@ -19,6 +19,7 @@ Submit the file to the local repository.
 * `git push origin [remoteRepository(main/master...)]`  
 Sync local repository files to remote repository.  
 * `git fetch <remoteurl>`  
+`git marge [alias]/[branch]`  
 Updating files from remote repository that local repository doesn't have.  
 * `git pull <remoteurl>`  
 Download remote repository files and overwrite local repository.  
