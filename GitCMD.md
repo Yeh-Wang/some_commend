@@ -23,3 +23,5 @@ Sync local repository files to remote repository.
 Updating files from remote repository that local repository doesn't have.  
 * `git pull <remoteurl>`  
 Download remote repository files and overwrite local repository.  
+* `git branch --set-upstream-to origin/remotebranch`  
+The local branch is set to track "origin/remotebranch".  
